@@ -1,0 +1,5 @@
+# read the SVG file
+# extract the texts and the line number
+# return the line number
+# other tool will display the text and get translations from user
+# copy each line of SVG and copy translated text in relevant line
